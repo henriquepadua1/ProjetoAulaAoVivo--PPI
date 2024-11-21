@@ -1,0 +1,20 @@
+{
+  "name": "projetoaulaaovivo--ppi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquepadua1/ProjetoAulaAoVivo--PPI.githttps:.git"
+  },
+  "author": "Henrique Pádua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquepadua1/ProjetoAulaAoVivo--PPI.githttps:/issues"
+  },
+  "homepage": "https://github.com/henriquepadua1/ProjetoAulaAoVivo--PPI.githttps:#readme",
+  "description": ""
+}
